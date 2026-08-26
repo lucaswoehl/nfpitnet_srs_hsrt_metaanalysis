@@ -1,4 +1,4 @@
-# nfpa_srs_hsrt_meta_analysis
+# nfpitnet_srs_hsrt_metaanalysis
 Manuscript under review (repository will be updated upon publication)
 
 Datasets included in this repository correspond to data extracted from the published literature during the systematic review process.
