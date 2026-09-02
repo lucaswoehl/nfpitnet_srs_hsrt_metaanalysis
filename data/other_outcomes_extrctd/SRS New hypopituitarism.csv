@@ -1,0 +1,15 @@
+Author,Events,Total,technique,year,year5,bias,volume,pstalk_dose
+Albano et al 2025,7,42,GK,2025,1,Moderate,2,
+Wei et al 2025,27,178,CK,2025,1,Moderate,4.4,
+Dumot et al 2023,76,869,GK,2023,1,Moderate,,
+Maldar et al 2022,25,63,GK,2022,1,Moderate,3.1,
+Khattab et al 2021,13,45,LINAC,2021,1,Moderate,5.084,
+Zhang et al 2021,9,45,GK,2021,1,Moderate,4.548,4.85
+Deng et al 2020,22,80,GK,2020,2,Moderate,7.656,
+Tucker et al 2020,0,34,GK,2020,2,Moderate,1.4,
+Oh et al 2018,13,53,GK,2018,2,Moderate,3.69,7.56
+Graffeo et al 2018,18,57,GK,2018,2,Moderate,3.389,7.27
+Sadik et al 2017,11,50,GK,2017,2,Serious,3.885,
+Sicignano et al 2012,6,68,GK,2012,3,Serious,1.6,
+Iwai et al 2005,2,31,GK,2005,5,Serious,7.121,
+Muacevic et al 2004,2,60,GK,2004,5,Serious,,6.6
