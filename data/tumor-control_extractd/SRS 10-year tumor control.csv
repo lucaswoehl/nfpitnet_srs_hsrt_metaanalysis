@@ -1,0 +1,8 @@
+Author,Events,Total,technique,volume,sample,year,year10,bias,type
+Wei et al. 2025,147,158,CK,4.4,178,2025,1,Moderate,PFS
+Dumot et al. 2023,772,869,GK,,869,2023,1,Moderate,PFS
+Zhang et al. 2021,39,45,GK,4.548,45,2021,1,Moderate,PFS
+Deng et al. 2020,110,148,GK,7.656,148,2020,2,Moderate,PFS
+Sun et al. 2019,188,204,GK,4.539,204,2019,2,Moderate,PFS
+Losa et al. 2017,214,272,GK,1.899,272,2017,2,Moderate,PFS
+Wilson et al. 2012,51,51,LINAC,2.944,51,2012,3,Serious,PFS
